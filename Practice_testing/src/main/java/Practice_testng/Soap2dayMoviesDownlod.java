@@ -20,7 +20,7 @@ public class Soap2dayMoviesDownlod {
 		/*
 		 * String actual = driver.findElement(By.id("btnhome")).getText();
 		 * System.out.println(actual); String expected = "Home";
-		 * System.out.println(expected); Assert.assertEquals(actual, expected);
+		 * System.out.println(expecte); Assert.assertEquals(actual, expected);
 		 * 
 		 * 
 		 * if (actual.equalsIgnoreCase(expected)) {

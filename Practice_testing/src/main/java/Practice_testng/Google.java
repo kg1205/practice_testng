@@ -28,7 +28,7 @@ public class Google {
 		jse.executeScript(a);
 //        driver.quit();
 		/*	
-		 * driver.manage().window().maximize(); WebElement link =
+		 * driver.manage().window(); WebElement link =
 		 * driver.findElement(By.tagName("a")); String keyString = Keys.CONTROL +
 		 * Keys.SHIFT.toString() + Keys.ENTER.toString(); link.sendKeys(keyString);
 		 */

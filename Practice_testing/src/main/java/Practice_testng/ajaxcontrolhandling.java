@@ -14,7 +14,7 @@ public class ajaxcontrolhandling {
 		driver.findElement(By.name("q")).sendKeys("selinium");
 		Thread.sleep(4000);
 		String str = driver.findElement(By.xpath("//div[@class='aajZCb']")).getText();
-		//System.out.println(str);
+		//System.out.println();
 		String[] s = str.split("\n");
 		System.out.println("The no of values in s;" + s.length);
 

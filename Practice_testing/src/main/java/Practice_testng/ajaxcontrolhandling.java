@@ -20,6 +20,7 @@ public class ajaxcontrolhandling {
 
 		for (int i = 0; i < s.length; i++) {
 			System.out.println(s[i]);
+			System.out.println("test");
 			
 			
 			/*
